@@ -47,5 +47,18 @@ print()
 
 # PRINTS : Complex list03 :  ['a', 1, [1, 2]]
 print("Complex list03 : ",list03)
+print()
+
+# PRINTS : [2, 4, 6, 8, 10]
+print("Slicing: ",list02)
+print()
+
+# PRINTS : [4, 6]
+print("Slicing: ",list02[1:3])
+print()
+
+# PRINTS : [2, 4, 6]
+print("Slicing: ",list02[:3])
 
 # ********************** LIST **********************
+
